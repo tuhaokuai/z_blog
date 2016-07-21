@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>Tuhaokuai</id>
+<name>Tuhaokuai</name>
+<url>http://www.tuhaokuai.com/?r=55fa2ed2c4cc55b70824b5d#zblogplugin</url>
+<note>自动压缩图片</note>
+<description></description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>图好快-图片压缩神器</name>
+  <email>nuno.zhang@snow021.com</email>
+  <url>http://www.tuhaokuai.com/?r=55fa2ed2c4cc55b70824b5d#zblogplugin</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140220</adapted>
+<version>2.0</version>
+<pubdate>2016-07-07</pubdate>
+<modified>2016-07-30</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>
